@@ -8,8 +8,6 @@
 # dunst configuration file
 # dunst is a lightweight notification-daemon
 ####################################################################################################
-
-
 [global]
     ### Display ###
 
@@ -263,7 +261,6 @@
     per_monitor_dpi = false
 
 [shortcuts]
-
     # Shortcuts are specified as [modifier+][modifier+]...key
     # Available modifiers are "ctrl", "mod1" (the alt-key), "mod2",
     # "mod3" and "mod4" (windows-key).
